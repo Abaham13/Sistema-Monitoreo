@@ -24,7 +24,7 @@ Aunque aún no está implementado, este módulo permitirá visualizar sesiones c
 
 Dificultades:
 
-- una de las dificultades que tuve fue en le diseño de la interface mas que nada utilizando la paleta de la educion visual GUI.
+- una de las dificultades que tuve fue en le diseño de la interface mas que nada utilizando la paleta de la edicion visual GUI.
 -problemas al momento de estructura el proyecto. clases, metodos, herramientas, a utilizar.
 -incriptado de datos
 
