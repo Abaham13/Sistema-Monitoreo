@@ -55,7 +55,10 @@ funcionamiento completo
 
 
 conclusiones:
-en conclusion, en esta activida se pudieron implementar todos los conocimientos aprendidos en todo el semestre, fue un gran reto a superar ya que no solamente se trataba de aplicar los conocimientos que se aprendieron en el semetre si no tambien estuvimos obligados a investigar sobre las tecnologias a utiliza, investigar sobre otro tipo de funciones que pedia como requisitos el proyecto como lo podria ser la incriptacion de datos o la conexion serial. En consideracion creo que fue un proyecto aunque en momentos bastante estresante “algo necesario”
+en conclusion, en esta activida se pudieron implementar todos los conocimientos aprendidos en todo el semestre, fue un gran reto a superar ya que no solamente se trataba de aplicar los conocimientos que se aprendieron en el semetre si no tambien estuvimos obligados a investigar sobre las tecnologias a utiliza, investigar sobre otro tipo de funciones que pedia como requisitos el proyecto como lo podria ser la incriptacion de datos o la conexion serial. En consideracion creo que fue un proyecto aunque en momentos bastante estresante “algo necesario”.
+
+link de canva:
+https://www.canva.com/design/DAG6YjNnUHA/1C2WHh3nIoaA_Q2oaNqwVg/edit?utm_content=DAG6YjNnUHA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
