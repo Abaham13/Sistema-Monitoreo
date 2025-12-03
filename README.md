@@ -18,6 +18,9 @@ Servidor / Base de Datos:
 Módulo de Histórico:
 Aunque aún no está implementado, este módulo permitirá visualizar sesiones completas, consultar intervalos de tiempo y analizar las mediciones guardadas.
 
+<img width="464" height="287" alt="image" src="https://github.com/user-attachments/assets/ccfb571f-88d0-412d-bc1a-4c23d74e6c20" />
+
+
 
 Dificultades:
 
@@ -30,6 +33,24 @@ soluciones:
 -comprension del problema y sus objetivos,analisis de la funciones del sistemas y investigacion de los problemas a resolver.
 -pues tuve in investigar que elemntos podria utilizar para la incriptacion de datos.
 
+estructura del codigo:
+<img width="1020" height="576" alt="image" src="https://github.com/user-attachments/assets/168b0d05-9b0c-48bb-adbd-976101138481" />
+
+pagina Principal:
+El inicio de secion donde cuenta con dos botones tranporta a monitor y el otro a historico.
+<img width="1020" height="576" alt="image" src="https://github.com/user-attachments/assets/fb5d0f91-4819-4507-8bab-3952286e70b7" />
+
+pagina monitor:
+en el cliente se grafican los datos, dados por el arduino o el simulador a tiempo real 
+<img width="722" height="567" alt="image" src="https://github.com/user-attachments/assets/1662d1bd-9e99-41e4-bfef-e8ef5a21daf8" />
+
+pagina historico:
+en el historico cuenta resive todos los datos los desencripta y los grafica a demas tambien los pone en una tabla.
+<img width="751" height="571" alt="image" src="https://github.com/user-attachments/assets/edf4311f-e52d-4059-a47a-457ebcaafb8b" />
+
+
+funcionamiento completo
+<img width="1013" height="569" alt="image" src="https://github.com/user-attachments/assets/c9c8f851-d27c-43c5-adc4-772d797ffc27" />
 
 
 conclusiones:
