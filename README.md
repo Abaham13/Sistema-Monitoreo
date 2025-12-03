@@ -38,7 +38,8 @@ estructura del codigo:
 
 pagina Principal:
 El inicio de secion donde cuenta con dos botones tranporta a monitor y el otro a historico.
-<img width="1020" height="576" alt="image" src="https://github.com/user-attachments/assets/fb5d0f91-4819-4507-8bab-3952286e70b7" />
+<img width="692" height="564" alt="image" src="https://github.com/user-attachments/assets/32f1d70c-7a14-421f-80f4-81101615a909" />
+
 
 pagina monitor:
 en el cliente se grafican los datos, dados por el arduino o el simulador a tiempo real 
